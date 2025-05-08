@@ -7,7 +7,7 @@
 ## **📎 Project Structure**
 ```
 ├── instance/
-│   ├── users.db                      # Database for user authentication
+│   ├── users.db                        # Database for user authentication
 ├── static/
 │   ├── about1.jpg
 │   ├── background.jpg
@@ -22,9 +22,9 @@
 │   ├── index.html
 │   ├── login.html
 │   ├── register.html
-│   ├── farmer_schemes.html            # Page displaying government farming schemes
-├── Crop_recommendation.csv            # Dataset for crop recommendation
-├── README.md                          # Documentation (You're reading this!)
+│   ├── farmer_schemes.html             # Page displaying government farming schemes
+├── Crop_recommendation.csv             # Dataset for crop recommendation
+├── README.md                           # Documentation (You're reading this!)
 ├── app.py                              # Main Flask application
 ├── fertilizer_model.pkl                # Fertilizer recommendation model
 ├── minmaxscaler.pkl                    # Scaler for preprocessing
