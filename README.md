@@ -11,7 +11,6 @@
 ├── static/
 │   ├── about1.jpg
 │   ├── background.jpg
-│   ├── image/
 │   ├── img.jpg
 │   ├── new.jpg
 ├── templates/
